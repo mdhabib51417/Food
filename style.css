@@ -1,0 +1,95 @@
+body{margin: 0;
+    padding: 0;
+}
+#nav-menu {width: 700px;
+    height: 25px; 
+    background-color: rgb(62, 8, 238);
+    border-radius: 6px;
+margin: 0 auto; }
+ #nav-menu ul{  }
+ #nav-menu ul li { 
+    list-style-type: none;
+    margin-right: 20px;
+    float: left;
+  }
+  #nav-menu ul li a {text-decoration: solid;
+    font-size: 20px;
+    color:rgba(239, 247, 239, 0.905);
+    cursor: copy; }
+
+#nav-menu ul li a:hover{ 
+text-decoration:underline ;
+
+}
+.container{
+    margin-bottom: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+#background{
+    margin: 5px auto;
+    height: 200px; width: 700px;
+    background-color: blueviolet;
+    border-radius: 6px;
+}
+h2{float: left;
+    color:rgb(47, 36, 72);
+    padding: 30px;
+}
+.image{padding:     20px;
+    height: 100px; width: 100px;
+    border-radius: 50%;
+    float: left;
+    
+    
+}
+.heading{ float: left;
+   
+  
+}
+.pragraf{color: floralwhite;
+    float: right;
+   width: 55%;
+  margin-top: 70px;
+}
+tr,td{
+    border: 1px solid black;
+    text-align: center;
+}
+
+
+
+
+
+#background2{
+    margin: 5px auto;
+    background-color: darkturquoise;
+    height: 200px;
+    width: 700px;
+    border-radius: 6px;
+}
+.image2{padding:     20px;
+    height: 100px; width: 100px;
+    border-radius: 50%;
+    float: right;}
+
+
+    #background3{
+        margin: 5px auto;
+        background-color:khaki;
+        height: 200px;
+        width: 700px;
+        border-radius: 6px;
+    }
+    .image3{padding:     20px;
+        height: 100px; width: 100px;
+        border-radius: 50%;
+        float: left;}
